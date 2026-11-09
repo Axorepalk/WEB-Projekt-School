@@ -35,12 +35,11 @@
 </header>
 <div class="container">
     <div class="row">
-        <div class="col-sm-1 bg-dark text-dark"></div>
 
 
 
 
-            <div class="col-sm-10">
+            <div class="col-sm-12 my-2">
                 <div class="container-fluid">
                     <div class="row bg-dark p-5 text-white">
                         <div class="col-sm-4"><h1 style="text-align:center">Patrik Vaněk</h1></div>
@@ -79,7 +78,6 @@
 
                 </div>
             </div>
-        <div class="col-sm-1 bg-dark text-dark"></div>
     </div>
 
     <footer style="color: white;background-color: black;padding: 70px;">
